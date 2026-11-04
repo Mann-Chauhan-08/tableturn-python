@@ -29,7 +29,3 @@ python -m uvicorn tableturn.app:app --port 8080   # the app, on http://127.0.0.1
 ## Built with
 
 Python 3.12 · FastAPI · SQLAlchemy · Pydantic · pytest
-
----
-
-Built by CHAUHAN MANN MUKESHBHAI on [LearnTube Guided Projects](https://guidedprojects.learntube.ai).
