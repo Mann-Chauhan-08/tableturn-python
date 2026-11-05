@@ -8,7 +8,7 @@ A restaurant waitlist: parties quoted a wait, seated by size, tables turning ove
 
 - [x] Ticket 1 · The floor, as something you can look at
 - [x] Ticket 2 · A party joins the list
-- [ ] Ticket 3 · The wait you quote, and the wait they actually have
+- [x] Ticket 3 · The wait you quote, and the wait they actually have
 - [ ] Ticket 4 · Three ways to say no
 - [ ] Ticket 5 · The table turns
 - [ ] Ticket 6 · A board nobody can wipe
@@ -29,3 +29,7 @@ python -m uvicorn tableturn.app:app --port 8080   # the app, on http://127.0.0.1
 ## Built with
 
 Python 3.12 · FastAPI · SQLAlchemy · Pydantic · pytest
+
+---
+
+Built by CHAUHAN MANN MUKESHBHAI on [LearnTube Guided Projects](https://guidedprojects.learntube.ai).
